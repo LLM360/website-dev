@@ -2188,8 +2188,8 @@ button3:disabled,
     font-size: 1em;
     font-weight: 300;
     color: #6b6b6b;
-    margin:0 0 1em 0;
-    min-height: 200px;}
+    margin:0 0 1em 0;}
+    /*  min-height: 200px;} */
 #wrapper .style4 h1{
     font-size: 3.5em;}
 #wrapper .style4 h2 {
@@ -2204,8 +2204,8 @@ button3:disabled,
     font-size: 1em;
     font-weight: 300;
     color: #6b6b6b;
-    margin:0 0 1em 0;
-    min-height: 200px;}
+    margin:0 0 1em 0;}
+    /* min-height: 200px;} */
 #wrapper .style5{
     margin-bottom: 10em;}
 #wrapper .style5 h1{
